@@ -5,6 +5,10 @@ Eu me chamo Augusto pires estou iniciando na programação e estudo para ser um 
 #### Tenho experiência com :
 - HTML
 - CSS
-#### E estou aprendendo :
 - JavaScript
+#### E estou aprendendo :
+- Node-js
 - React
+#### Logo aprenderei :
+- React-Native
+- Type-Script
